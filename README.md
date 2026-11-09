@@ -1,4 +1,4 @@
-# Document Tracking System
+# TraceDoc
 
 A full-stack document tracking application for uploading, reviewing, forwarding, approving, and rejecting documents across departments. The system supports role-based access, audit history, OTP-based login, Cloudinary file storage, and email notifications.
 
